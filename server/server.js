@@ -27,7 +27,7 @@ const server = http.createServer(app);
 const allowedOrigins = [
   process.env.BASE_URL,
   "http://127.0.0.1:9002",
-  "http://localhost",
+  "http://localhost:3000",
   "https://enligten.com",
 ];
 
