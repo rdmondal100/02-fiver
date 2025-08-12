@@ -26,7 +26,7 @@ const app = express();
 const server = http.createServer(app);
 const allowedOrigins = [
   process.env.BASE_URL,
-  "http://localhost:3000",
+  "http://127.0.0.1:9002",
   "http://localhost",
   "https://enligten.com",
 ];
