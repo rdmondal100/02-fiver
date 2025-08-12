@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>web/svg/ic_flag_kr</title>
+    <desc>Created for South Korea</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lang/K-L-Korean-kr">
+            <g id="kr">
+                <g id="flag-korea" transform="translate(1.000000, 1.000000)">
+                    <!-- White background -->
+                    <circle id="bg" fill="#FFFFFF" cx="34" cy="34" r="34"></circle>
+                    <!-- Taeguk (red/blue circle) -->
+                    <path d="M34,24 a10,10 0 1,0 0,20 a10,10 0 1,0 0,-20" fill="#C60C30"/>
+                    <path d="M34,44 a10,10 0 1,1 0,-20 a10,10 0 1,1 0,20" fill="#003478"/>
+                    <!-- Simple trigrams -->
+                    <g stroke="#000" stroke-width="2">
+                        <g>
+                            <line x1="10" y1="18" x2="24" y2="18" />
+                            <line x1="10" y1="22" x2="24" y2="22" />
+                            <line x1="10" y1="26" x2="24" y2="26" />
+                        </g>
+                        <g>
+                            <line x1="44" y1="18" x2="58" y2="22" />
+                            <line x1="44" y1="22" x2="58" y2="18" />
+                        </g>
+                        <g>
+                            <line x1="10" y1="44" x2="24" y2="48" />
+                            <line x1="10" y1="48" x2="24" y2="44" />
+                        </g>
+                        <g>
+                            <line x1="44" y1="48" x2="58" y2="48" />
+                            <line x1="44" y1="52" x2="58" y2="52" />
+                        </g>
+                    </g>
+                </g>
+                <g id="border" fill="#C5C5C2">
+                    <path d="M35,0 C54.3299662,0 70,15.6700338 70,35 C70,54.3299662 54.3299662,70 35,70 C15.6700338,70 0,54.3299662 0,35 C0,15.6700338 15.6700338,0 35,0 Z M35,2 C16.7746033,2 2,16.7746033 2,35 C2,53.2253967 16.7746033,68 35,68 C53.2253967,68 68,53.2253967 68,35 C68,16.7746033 53.2253967,2 35,2 Z"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg> 
